@@ -2,7 +2,7 @@
 
 ## 📊 Overview
 
-In this project analyzes the impact of rising CO₂ concentrations on global temperature changes using historical data. It combines data preprocessing, visualization, statistical modeling, and performance evaluation to interpret climate trends and predict future behavior.
+In this project, I analyzed the impact of rising CO₂ concentrations on global temperature changes using historical data. It combines data preprocessing, visualization, statistical modeling, and performance evaluation to interpret climate trends and predict future behavior.
 ---
 ## 🔍 Key Insights
 - The mean temperature change is around  **0.54°C**, with a **median of 0.47°C and variance of 0.43°C**, indicating slight variability in temperature anomalies.
